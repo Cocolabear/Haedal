@@ -1,0 +1,21 @@
+* {
+	color:black; /*List 색깔 바꿈*/
+    background-color: lightblue;
+}
+
+li {
+	color: blue;
+}
+
+#special {
+	color: red;
+}
+
+.gray{
+	background: lightgray;
+}
+
+.yellow {
+	background: yellow;
+}
+
