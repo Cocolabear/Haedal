@@ -94,18 +94,3 @@ button {
         opacity: 0;
     }
 }
- 
-/*.colabear{
-    padding: 15px 20px;
-        background-color: #444444;
-        border-radius: 5px;
-        color: #ffffff;
-        position: absolute;
-        opacity: 0;
-        transition: all ease 0.5s;
-}
-
-.colabearhover:hover+.colabear{
-    opacity: 1;
-}
-*/
